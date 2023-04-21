@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+h1{
+    margin:5rem;
+    background-color: antiquewhite;
+}
+p{
+    margin:8rem;
+    background-color: burlywood;
+}
+a{
+    display:inline-block;
+    margin: 2rem;
+    background-color: crimson;
+    font-size:2rem;
+    text-align: center;
+    height: 20rem;
+    width:20rem;
+}

@@ -1,0 +1,14 @@
+html{
+    font-size: 62.5%;
+}
+
+button{
+    margin:20rem;
+    padding: 2rem 4rem;
+    background: none;
+    border: 0.3rem solid blueviolet;
+    border-radius: 2rem;
+    color:white;
+    background: blueviolet;
+
+}

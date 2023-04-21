@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+
+}
+h1{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: #a36fd4;
+}
+@media (max-width:600px){
+    body{
+        background-color: blue;
+    }
+    .mobile{
+        font-size: 4.8rem;
+    }
+}

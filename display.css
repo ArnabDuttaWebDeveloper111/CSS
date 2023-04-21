@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+h1{
+    margin:20px;
+    background-color: navajowhite;
+}
+p{
+    margin:2rem;
+    background-color: cadetblue;
+}
+/* Inline Element Margin Padding Not Working top-bottom.They are just right-left Height And Width Donot Work in the inline Property*/
+
+/* a{
+    margin:5rem;
+    background-color: crimson;
+    color:white;
+} */
+
+/* Change Inline Element To Block level Element */
+
+
+
+/* Display New Property Inline Block */
+
+a{
+    display: inline-block;
+    background-color: lightgrey;
+    height: 20rem;
+    width:20rem;
+    margin:2rem;
+    padding:2rem;
+    text-align: center;
+}

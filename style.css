@@ -1,0 +1,17 @@
+.first-class{
+    color:cornflowerblue;
+}
+
+.nav-links{
+    color:brown;
+}
+.nav-links + ul{
+    list-style: none;
+    
+}
+.nav-links + ul{
+    color:red;
+}
+.nav li:nth-child(2){
+    color:hotpink;
+}

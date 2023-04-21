@@ -1,0 +1,19 @@
+h1{
+    color:burlywood;
+}
+.my-section h1{
+    color:blueviolet;
+}
+.my-section p{
+    font-size: 30px;
+}
+.gallery li{
+
+    color:blueviolet;
+}
+ul>li{
+    color:green;
+}
+.links li:nth-child(3){
+    color:blue;
+}

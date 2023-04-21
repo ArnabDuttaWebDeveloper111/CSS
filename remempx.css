@@ -1,0 +1,12 @@
+/* 1 html =16px;
+   1 em=16px
+   Em always Inherit the intermeidate root parent
+   rem always Inherit the main root element
+*/
+
+.text-section{
+    font-size: 1.5rem;
+}
+.text-section div{
+    font-size:5rem;
+}

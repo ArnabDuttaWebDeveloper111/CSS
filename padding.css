@@ -1,0 +1,10 @@
+h1{
+    margin:50px;
+    padding:80px 80px 80px 240px;
+    background-color: crimson;
+}
+button{
+    margin-left: 80px;
+    padding: 70px;
+    background-color: blueviolet;
+}

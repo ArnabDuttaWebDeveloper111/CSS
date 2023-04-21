@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+html,body{
+    height:100%;
+}
+.container{
+    width: 80%;
+    height: 80%;
+    background-color: aqua;
+    margin: auto;
+    position: relative;
+}
+.box1,.box2,.box3{
+    width:20%;
+    height: 20%;
+    background-color: crimson;
+
+}
+.box2{
+    background-color: blueviolet;
+    position:relative;
+    top:29.5rem;
+    left:0rem;
+   
+}
+.box3{
+    background-color: darkgoldenrod;
+    position: fixed;
+    top:0%;
+    left: 0%;
+    width: 100%;
+}
+.box1{
+    position: absolute;
+    bottom:0%;
+    right:0%;
+}
